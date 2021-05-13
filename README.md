@@ -21,4 +21,5 @@ go to ur instance and see GRID Console -> publicIP:4444
 **To SCale up**
 
 docker-compose scale chrome=3
+
 docker-compose scale firefox=3
